@@ -293,12 +293,75 @@ header{
   background-color: #e1ebf5;
 }
 
-main{
+/*header ul{
+  visibility: hidden;
+}
+
+header button:active{
+  visibility: visible;
+}
+
+@media (min-width: 768px) {
+
+  header ul{
+    visibility: visible;
+  }
+
+}*/
+
+
+.backgroundDarkGrey{
+  background-color: #293540;
+}
+
+.backgroundBlueSky{
   background-color: #7bbce2;
+}
+
+.backgroundLightGrey{
+  background-color: #e1ebf5;
+}
+
+.backgroundOrange{
+  background-color: #fc561f;
+}
+
+.backgroundWhite{
+  background-color: #ffffff;
+}
+
+.colorDarkGrey{
+  color: #293540;
+}
+
+.colorBlueSky{
+  color: #7bbce2;
+}
+
+.colorLightGrey{
+  color: #e1ebf5;
+}
+
+.colorOrange{
+  color: #fc561f;
+}
+
+.colorWhite{
+  color: #ffffff;
+}
+
+
+
+header img{
+  width: 175px;
 }
 
 .carousel-container{
   padding-top: 30px;
+}
+
+.carousel-caption p{
+  font-size: 2rem;
 }
 
 main h2{
@@ -306,6 +369,16 @@ main h2{
 }
 
 .method-content,
-.method img{
+.method img,
+.activities-content,
+.activities img{
   margin-bottom: 30px;
 }
+
+/*****************************Tarifs*******************************************/
+
+div.container{
+  margin-bottom: 30px;
+}
+
+/******************************Presentation************************************/

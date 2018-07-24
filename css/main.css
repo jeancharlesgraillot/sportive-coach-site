@@ -383,4 +383,15 @@ div.container{
   margin-bottom: 30px;
 }
 
-/******************************Presentation************************************/
+/*.tarifs,
+.presentation{
+  bottom: 0;
+  position: absolute;
+  width: 100%;
+}*/
+
+/******************************Marge pour footer toujours en bas***************/
+
+.marginBottom{
+  margin-bottom: 100px;
+}
